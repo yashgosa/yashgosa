@@ -1,35 +1,4 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yashgosa&show_icons=true&&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yashgosa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashgosa&repo=deep-care&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashgosa&repo=deep-care&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=yashgosa&repo=deep-care&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=yashgosa&repo=deep-care&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgosa&theme=dark&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgosa&theme=defaul&layout=compactt"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=yashgosa&show_icons=true" />
-</picture>
 
 
 <p align="center">
