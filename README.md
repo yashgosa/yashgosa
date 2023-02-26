@@ -43,6 +43,10 @@ Current Project: <a href="https://github.com/yashgosa/my_ml_projects">My Machine
 
 
 ⭐️ From [yashgosa](https://github.com/yashgosa)
+<p align="center">
+  <a><h2>📈 My Contribution Graph</h2></a>
+<img width="88.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=yashgosa&theme=tokyo-night">
+</p>
 <a><h2>🏆 Github Profile Trophy</h2></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=yashgosa&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
