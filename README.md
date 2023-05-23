@@ -31,13 +31,30 @@ Current Project: <a href="https://github.com/yashgosa/my_ml_projects">My Machine
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/yashcgosavi">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
+  <details align="center">
+
+<summary> <b> <samp> Wanna Know More? </samp></b></summary>
+<samp>
+  <p>
+  
+[![yashgosa's GitHub | Stats](https://stats.quine.sh/yashgosa/github?theme=dark)](https://quine.sh)
+
+  </p>
+  </samp>
+</details>
+  </samp>
+</details>
+
+
+
+
+
+
+
 </p> 
 
   
   
-
-</samp>
-</details>
 
 
 
